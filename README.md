@@ -1,7 +1,7 @@
 [
   {
     "A": "",
-    "B": "سلام بچه چه خبر کسی نیست؟",
-    "C": "YOU ARE ONE HEMAN, AND THE, AND THE, AND THE, AND THE, AND "
+    "B": "the only one that I can do to get a free shopping. line of the phone. line ",
+    "C": "hello codes"
   }
 ]
