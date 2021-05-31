@@ -1,14 +1,7 @@
 [
   {
-    "A": "https://s18.picofile.com/file/8435120850/ic_launcher.png",
-    "B": "hello frind "
-  },
-  {
-    "A": "https://s18.picofile.com/file/8435120850/ic_launcher.png",
-    "B": "hello frind "
-  },
-  {
-    "A": "https://s18.picofile.com/file/8435120850/ic_launcher.png",
-    "B": "hello frind "
+    "image": "",
+    "Text": "اولین اخبار ما \n\nگوشی های شئائمی ارزان شد",
+    "Bower": "https://www.google.com"
   }
 ]
